@@ -89,7 +89,7 @@ color:#DBADDF;
 	color: #fff;
 	/* background-color:#3f0001 ; */
 	border: 1px solid#DBADDF;
-	font-weight: bold;
+	
 	font-family:  'Montserrat', sans-serif;
 	size:3em;
 	width:fit-content;
@@ -97,6 +97,24 @@ color:#DBADDF;
 	letter-spacing: 1px;
 	margin:0 0 0 6%;
 	color: #DBADDF;
+}
+#home .btn a
+{
+	color: #DBADDF;
+	text-decoration: none;
+	font-family:Arial, Helvetica, sans-serif;
+}
+#home>.btn>a:hover {
+	position: relative;
+	border: none;
+	border-radius: 0;
+	
+
+	background-image: none;
+	/* background-color: #F6F6F6; */
+	color: rgb(235, 231, 2);
+	font-weight: 200;
+
 }
 #about
 {
